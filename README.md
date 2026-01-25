@@ -18,10 +18,12 @@ This repository contains the Python implementation of the **Regime-Switching Sto
     - **Module D**: Forward Simulation (Table 4 Results)
 
 ## Quick Start
-To reproduce the results in **Table 4** (+197% NPV improvement):
-1.  Open the notebook `Paper1_Unified_Framework.ipynb`.
-2.  Run **Cell 10** (Master Simulation Script).
-3.  The script uses a fixed seed (`numpy.random.seed(42)`) to ensure exact replication of the reported values.
+1. **Valuation (Table 4)**: 
+   - Uses `numpy.random.seed(42)` to reproduce the +197% NPV result.
+   - Run **Cell 10**.
+2. **Visualization (Figure 2)**: 
+   - Uses `numpy.random.seed(100)` to generate the representative "Structural Break" path shown in the manuscript.
+   - Run **Cell 5**.
 
 ## Requirements
 - Python 3.8+
