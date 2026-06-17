@@ -7,7 +7,7 @@ A unified real options valuation framework for natural gas storage integrating H
 ## 📝 How to Cite
 If you utilize this framework or code in your research, please cite the official published paper:
 
-> **Abshenasan, H.** *et al.* (2026). A Unified Real Options Framework for Natural Gas Storage: Integrating Market Regimes and Cross-Market Spillovers. *Commodities* (MDPI).
+> Fernández, P. L., Olmedo, F. G., & Abshenasan, H. (2026). A Unified Real Options Framework for Natural Gas Storage: Integrating Market Regimes and Cross-Market Spillovers. *Commodities*, 5(2), 11. 
 > **DOI:** [https://doi.org/10.3390/commodities5020011](https://doi.org/10.3390/commodities5020011)
 
 ---
