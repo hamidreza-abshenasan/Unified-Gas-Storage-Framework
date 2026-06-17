@@ -1,10 +1,16 @@
 # Unified-Gas-Storage-Valuation-Framework
 
-**Latest Update (April 2026):** *Revised repository for peer review. Includes new misclassification robustness checks and corrected extreme-tail visualization logic.*
+**Latest Update (June 2026):** *This repository contains the official replication package for the peer-reviewed article published in MDPI Commodities. It includes the finalized misclassification robustness checks and corrected extreme-tail visualization logic.*
 
-A unified real options valuation framework for natural gas storage integrating Hidden Markov Models (HMM), cross-market spillover indices, and Stochastic Dynamic Programming (SDP). Official implementation code for the paper.
+A unified real options valuation framework for natural gas storage integrating Hidden Markov Models (HMM), cross-market spillover indices, and Stochastic Dynamic Programming (SDP). 
 
-**Supplementary Material for Manuscript:** *"A Unified Real Options Framework for Natural Gas Storage: Integrating Market Regimes and Cross-Market Spillovers"*
+## 📝 How to Cite
+If you utilize this framework or code in your research, please cite the official published paper:
+
+> **Abshenasan, H.** *et al.* (2026). A Unified Real Options Framework for Natural Gas Storage: Integrating Market Regimes and Cross-Market Spillovers. *Commodities* (MDPI).
+> **DOI:** [https://doi.org/10.3390/commodities5020011](https://doi.org/10.3390/commodities5020011)
+
+---
 
 ## Overview
 This repository contains the Python implementation of the **Regime-Switching Stochastic Dynamic Programming (SDP)** framework presented in the paper. The code allows for the replication of:
